@@ -1,6 +1,6 @@
 # FortiManager HA (Single AZ) in AWS
 
-For a quick start guide on how to use the template in this repo, please reference [**fortimanager-aws-ha-dualaz-cloudformation**](https://fortinetcloudcse.github.io/fortimanager-aws-ha-singleaz-cloudformation/). 
+For a quick start guide on how to use the template in this repo, please reference [**fortimanager-aws-ha-singleaz-cloudformation**](https://fortinetcloudcse.github.io/fortimanager-aws-ha-singleaz-cloudformation/). 
 
 For other documentation needs such as FortiManager administration and additional use cases, please reference [**docs.fortinet.com**](https://docs.fortinet.com/). 
 
