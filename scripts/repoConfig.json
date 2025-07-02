@@ -1,7 +1,7 @@
 {
-  "repoName":"fortianalyzer-aws-ha-singleaz-cloudformation",
+  "repoName":"fortimanager-aws-ha-singleaz-cloudformation",
   "author":"Hiruy Aberra",
-  "workshopTitle":"fortianalyzer-aws-ha-singleaz-cloudformation",
+  "workshopTitle":"fortimanager-aws-ha-singleaz-cloudformation",
   "themeVariant":"Workshop",
   "logoBannerText":"",
   "logoBannerSubText":"",
