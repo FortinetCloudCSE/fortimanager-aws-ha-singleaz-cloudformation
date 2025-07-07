@@ -27,7 +27,7 @@ git clone https://github.com/FortinetCloudCSE/fortimanager-aws-ha-singleaz-cloud
 
 	![](deploy3.png)
 
-5.  On the Specify Details page, you will be prompted for a stack name and parameters for the deployment.  We are using the **'FortiManager_HA_singleaz_NewVPC.template.json'** template which deploys a FMG into a new VPC's public subnets and gives options for configuring the instance settings.
+5.  On the Specify Details page, you will be prompted for a stack name and parameters for the deployment.  We are using the **'FortiManager_HA_singleaz_NewVPC.template.json'** template which deploys FMG into a new VPC's public subnets and gives options for configuring the instance settings.
 
 ![](deploy4a.png)
 
