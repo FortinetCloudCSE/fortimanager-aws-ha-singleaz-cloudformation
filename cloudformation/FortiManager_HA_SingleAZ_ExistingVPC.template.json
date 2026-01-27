@@ -1934,7 +1934,7 @@
 				},
 				"Timeout": 120,
 				"Handler": "index.handler",
-				"Runtime": "python3.9",
+				"Runtime": "python3.12",
 				"MemorySize": 128
 			}
 		},
